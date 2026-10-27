@@ -1,3 +1,0 @@
-# Deployment configuration
-
-Build a fresh deployment directory from an explicit allowlist: `index.html`, `pages/`, approved `assets/`, `css/`, `js/`, sanitized `data/`, sanitized `schema/`, `robots.txt`, `sitemap.xml`, `site.webmanifest`, and optionally approved `humans.txt`. Never deploy the repository root, use a broad recursive copy, or select a host that publishes every repository file. Exclude `research/`, `brand/`, `docs/`, `tools/`, `config/`, `integrations/`, `content/`, hidden files, root master research and all eight legacy root images. Gitignore and robots.txt are not access controls. Review the actual output file list and verify private paths are unavailable before release. No deployment system or build script is installed in this structure-only task.

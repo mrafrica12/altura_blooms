@@ -1,9 +1,0 @@
-{
-  "stage": "development",
-  "name": "Altura Blooms",
-  "tagline": "A Higher Sense of Beauty",
-  "place": "Timau · Kenya",
-  "baseUrl": null,
-  "enquiry": { "enabled": false },
-  "note": "stage=development adds noindex + a visible development flag. baseUrl stays null until a production domain is approved; canonical/OG url are then emitted by the build."
-}
