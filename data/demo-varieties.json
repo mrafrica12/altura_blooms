@@ -1,0 +1,5 @@
+[
+  {"slug":"demo-rose-01","name":"Demo Rose 01","demo":true,"approved":false,"colorFamily":"Blush (sample)","stemLength":"50","availability":"Sample availability: 1,000 stems","type":"Template example"},
+  {"slug":"demo-rose-02","name":"Demo Rose 02","demo":true,"approved":false,"colorFamily":"Ivory (sample)","stemLength":"60","availability":"Sample availability: 500 stems","type":"Template example"},
+  {"slug":"demo-rose-03","name":"Demo Rose 03","demo":true,"approved":false,"colorFamily":"Red (sample)","stemLength":"70","availability":"Sample availability: enquire","type":"Template example"}
+]
